@@ -1,0 +1,13 @@
+global:
+  italian: 意大利
+  english: 英语
+  spanish: 西班牙语
+  tagline: 标签
+  about: 关于
+  twitter: 推特
+  github: GitHub
+pages:
+  example: 例子
+  includeexample: 下面的例子是啥啥啥
+titles:
+  pagination: 分页
